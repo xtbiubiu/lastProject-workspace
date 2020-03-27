@@ -23,6 +23,8 @@ public class GitSpringbootApplication {
 
         System.out.println("从GitHub上修改stash 1.0");
 
+        System.out.println("update from IDEA");
+        System.out.println("已经十点多了");
         
 
     }
