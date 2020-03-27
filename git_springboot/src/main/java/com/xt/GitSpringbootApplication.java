@@ -30,6 +30,8 @@ public class GitSpringbootApplication {
         
         System.out.println("github pull local");
 
+
+        System.out.println("dev1.0 push github");
     }
 
 }
