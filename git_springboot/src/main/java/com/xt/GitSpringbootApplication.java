@@ -21,6 +21,10 @@ public class GitSpringbootApplication {
 
         System.out.println("测试保存工作现场stash 1.0");
 
+        System.out.println("从GitHub上修改stash 1.0");
+
+        
+
     }
 
 }
