@@ -27,6 +27,9 @@ public class GitSpringbootApplication {
         System.out.println("已经十点多了");
 
         System.out.println("dev1.0 push github");
+        
+        System.out.println("github pull local");
+
     }
 
 }
