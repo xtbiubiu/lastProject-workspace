@@ -10,6 +10,7 @@ public class GitSpringbootApplication {
 
         SpringApplication.run(GitSpringbootApplication.class, args);
         System.out.println("修改一次");
+        System.out.println("修改二次");
     }
 
 }
