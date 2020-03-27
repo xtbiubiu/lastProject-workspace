@@ -9,6 +9,7 @@ public class GitSpringbootApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(GitSpringbootApplication.class, args);
+        System.out.println("修改一次");
     }
 
 }
